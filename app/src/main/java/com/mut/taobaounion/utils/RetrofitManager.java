@@ -19,6 +19,7 @@ public class RetrofitManager {
                 .build();
 
     }
+///ssssss
 
     public Retrofit getretrofit()
     {
